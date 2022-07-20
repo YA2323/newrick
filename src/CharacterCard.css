@@ -1,0 +1,29 @@
+*{
+
+}
+
+.header{
+    color: #3495e7;
+}
+.cards{
+
+    display: inline-grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+
+
+    border: 2px solid #3495e7;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 20px;
+
+}
+.cards div{
+
+    background-image: url("crt.jpg");
+    border: 7px solid #3495e7;
+    margin: 2px;
+
+}
+
+
+
